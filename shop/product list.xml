@@ -1,0 +1,27 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+<rubashop>
+          -<item>
+              <name>rice</name>
+              <price>50</price>
+          </item>
+          -<item>
+              <name>oil</name>
+              <price>40</price>
+          </item>
+          -<item>
+              <name>maggie</name>
+              <price>10</price>
+          </item>
+          -<item>
+              <name>choco</name>
+              <price>20</price>
+          </item>
+          -<item>
+              <name>milkybar</name>
+              <price>5</price>
+          </item>
+</rubashop>
+
+
+
+
